@@ -1,0 +1,4 @@
+c:\users\gwwcr0\documents\visual studio 2010\Projects\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe
+c:\users\gwwcr0\documents\visual studio 2010\Projects\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.pdb
+c:\users\gwwcr0\documents\visual studio 2010\Projects\RPNCalculator\RPNCalculator\obj\x86\Debug\RPNCalculator.exe
+c:\users\gwwcr0\documents\visual studio 2010\Projects\RPNCalculator\RPNCalculator\obj\x86\Debug\RPNCalculator.pdb
